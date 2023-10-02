@@ -6,9 +6,11 @@ class Program
     public static void Main()
     {
         PlayGround playGround = new PlayGround();
-        playGround.PrintBoard();
+        Color CurrentTurn = Color.White;
         while (true)
         {
+            playGround.PrintBoard();
+            Console.WriteLine(CurrentTurn == Color.White ? "Ход белых" : "Ход черных");
             Console.WriteLine("Выбирите фигуру которую хотите сдвинуть");
             int figureRow; 
             int figureColumn; 
@@ -44,12 +46,14 @@ class Program
                 continue;
             }
 
-            if (!playGround.MoveFigure(figureRow, figureColumn, placeRow, placeColumn))
+            if (!playGround.MoveFigure(figureRow, figureColumn, placeRow, placeColumn,CurrentTurn))
             {
                 Console.WriteLine("неверные данные");
+                continue;
 
             }
-            playGround.PrintBoard();
+
+            CurrentTurn = CurrentTurn == Color.White ? Color.Black : Color.White;
 
         }
     }

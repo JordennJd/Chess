@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/Chess.csproj": {}
+    "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/Chess.csproj": {}
   },
   "projects": {
-    "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/Chess.csproj": {
+    "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/Chess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/Chess.csproj",
+        "projectUniqueName": "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/Chess.csproj",
         "projectName": "Chess",
-        "projectPath": "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/Chess.csproj",
+        "projectPath": "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/Chess.csproj",
         "packagesPath": "/Users/danilalatyrev/.nuget/packages/",
-        "outputPath": "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/obj/",
+        "outputPath": "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/danilalatyrev/.nuget/NuGet/NuGet.Config"

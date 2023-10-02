@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eMvcHR/O6Di1kpKM2e39fHhoInHZ8QmMEgdFJp6r/s1FWRtExJbeEVLshb+VwVnLeAKSipwne9RF1SCwfQlhrg==",
+  "dgSpecHash": "jMHEBq6dRms1Pr0GPzOzYJsC+TKPV3vBpErk2eiyu7qDg7WAvsRdUTWcjC4MSWAAiGxsjeHbJa5kvDQMIHRlEw==",
   "success": true,
-  "projectFilePath": "/Users/danilalatyrev/Desktop/ForLabs/Algoritms/Chess/Chess/Chess.csproj",
+  "projectFilePath": "/Users/danilalatyrev/Desktop/ForProjects/Chess/Chess/Chess.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
